@@ -15,3 +15,5 @@ expansion buildings are defined <br>
 145,hydro,0,0<br>
 
 Run the program via FAF-Buildorder-Visualizer\bin\Debug\net7.0\app.exe. It should open a browser window with an interactive plot
+
+Special thanks to my favorite Zoomer Grimplex for working with me on this project and showing me C# B)
