@@ -9,6 +9,7 @@ pgen,10 <br>
 pgen,10 <br>
 
 expansion buildings are defined <br>
+
 **timestamp,type,massreclaim,energyreclaim**<br>
 100,mex,0,0<br>
 120,reclaim,10,50<br>
