@@ -1,0 +1,13 @@
+landfac,10
+pgen,10
+pgen,10
+mex,10
+mex,10
+mex,10
+mex,10
+pgen,10
+pgen,10
+pgen,10
+landfac,10
+landfac,10
+landfac,10
